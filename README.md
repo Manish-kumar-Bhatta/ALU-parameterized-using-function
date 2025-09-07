@@ -42,3 +42,5 @@ By using parameters, the ALU can be configured for different *bit-widths* (e.g.,
 
 *Manish Bhatta*
 📌 Enthusiast in Digital Design, Verilog, and FPGA Development
+LinkedIn: [https://www.linkedin.com/in/manish-ku-bhatta-985080272]
+
